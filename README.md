@@ -9,9 +9,9 @@ Este proyecto es una copia de la interfaz de inicio de Pinterest, creado puramen
 
 ## ⚙️ Tecnologías utilizadas
 
-  +  HTML5: 📜 Para la estructura del sitio.
-   + CSS3: 🎨 Para el diseño y estilo, incluyendo flexbox para un diseño responsivo y efectos de hover.
-    + Google Icons: 🌟 Para iconos personalizados.
+ +  HTML5: 📜 Para la estructura del sitio.
+ + CSS3: 🎨 Para el diseño y estilo, incluyendo flexbox para un diseño responsivo y efectos de hover.
+ + Google Icons: 🌟 Para iconos personalizados.
 
 ## 👀 Vista previa del Proyecto:
 

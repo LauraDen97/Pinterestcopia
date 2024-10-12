@@ -100,7 +100,7 @@ header nav img#pinterest-icon{
     padding-right: 5px;
 }
 .imagenes{
-    columns: 6 240px;
+    columns: 5 235px;
     margin: auto;
 }
 .imagenes .card-image{
